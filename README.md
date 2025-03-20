@@ -1,7 +1,5 @@
-# Simple example of ansible static inventory as a source of truth
+# ANsible Examples
 
-In environments where you don't have, or don't want to use DNS (such as a home lab), you have to manage hosts files on every host.
+This repo contains real-world working code for Ansible to perform various tasks
 
-This is a working example of how to do this using ansible inventory as the source of truth, including the IP addresses of each host.
-
-
+- [inventory-hosts](https://github.com/wcmohler/ansible-examples/tree/main/inventory-hosts) is an example in using Ansible inventory as a source of truth for hosts and managing hostfiles across the inventory in an environment where DNS is not in place , such as a home lab.

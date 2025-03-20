@@ -1,4 +1,4 @@
-# ANsible Examples
+# Ansible Examples
 
 This repo contains real-world working code for Ansible to perform various tasks
 
